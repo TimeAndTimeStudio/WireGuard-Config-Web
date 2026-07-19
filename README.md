@@ -1,3 +1,3 @@
 # Website
 - https://wireguard.timeandtime.online
-- https://
+- https://timeandtimestudio.github.io/WireGuard-Config-Web
